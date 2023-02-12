@@ -1,2 +1,2 @@
 # .NET
-Portfolio for my school and hobbyprojects built with C#
+My first .NET application built in JetBrains/Rider. Schoolproject.
